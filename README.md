@@ -12,7 +12,7 @@
 
 # Pepe Subgraph migration
 
-This quest is to migrate the [Pepe subgraph]([https://thegraph.com/explorer](https://github.com/balakhonoff/awesome-subgraphs/tree/main/pepe-subgraph)) to Squid SDK. The resulting squid should match the GraphQL API of the subgraph as close as possible, by migrating `schema.graphql`. The judges reserve the right to request improvements afther the initial review of the submission. Reach out to the [Discord Channel]( https://discord.com/channels/857105545135390731/1155812879770058783) for any tech questions regarding this quest. Use ```template``` squid as a starter.
+This quest is to migrate the [Pepe subgraph](https://github.com/balakhonoff/awesome-subgraphs/tree/main/pepe-subgraph) to Squid SDK. The resulting squid should match the GraphQL API of the subgraph as close as possible, by migrating `schema.graphql`. The judges reserve the right to request improvements afther the initial review of the submission. Reach out to the [Discord Channel]( https://discord.com/channels/857105545135390731/1155812879770058783) for any tech questions regarding this quest. Use ```template``` squid as a starter.
 
 # Quest Info
 
