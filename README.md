@@ -18,7 +18,7 @@ This quest is to migrate the [Pepe subgraph](https://github.com/balakhonoff/awes
 
 | Category         | Skill Level                           | Time required (hours) | Max Participants | Reward                                | Status |
 | ---------------- | ------------------------------------- | --------------------- | ---------------- | ------------------------------------- | ------ |
-| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~20                   | 5                | $\textcolor{red}{\textsf{3000tSQD}}$  | open   |
+| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~20                   | 5                | $\textcolor{red}{\textsf{750tSQD}}$  | open   |
 
 # Acceptance critera
 
